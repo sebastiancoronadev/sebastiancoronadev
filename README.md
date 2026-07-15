@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sebastián Corona &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### Full-Stack Developer · Cybersecurity Specialist · Video Editor
+### Full-Stack Developer · Cybersecurity Specialist · Systems Architect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-codexstudiove.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.codexstudiove.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastiancoronadev)
@@ -291,33 +291,53 @@ My background also includes **cybersecurity research**—focusing on network res
 
 ## 🚀 Featured Projects
 
-### 🔗 URL Shortener
-A modern, secure, and lightweight local URL shortening service built with FastAPI.  
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sebastiancoronadev/url-shortener)
-- AES‑256 encrypted storage
-- REST API with FastAPI
-- SQLite local database
-- Automatic expiration after 24h
-- Bilingual interface (EN/ES)
+### 🗄️ TempusDB
+High-performance time-series database engine built from scratch in Rust with Gorilla compression, zero data loss, and native Prometheus exporter.  
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sebastiancoronadev/TempusDB)
+- LSM-tree architecture with WAL + SSTables
+- Gorilla compression (5-8x space reduction)
+- Zero data loss with immediate fsync
+- Native Prometheus exporter on port 9002
+- Lock-free concurrent operations
 
-### 📦 Inventory System
+### ⚡ Typeoon Framework
+Enterprise-grade backend framework built with TypeScript featuring E2EE, JWT auth, Prisma ORM, Redis cache, and Prometheus metrics.  
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sebastiancoronadev/Typeoon)
+- AES-256-CBC encryption with PBKDF2
+- JWT authentication with refresh tokens
+- Rate limiting (100 req/min per IP)
+- Modular architecture for REST APIs
+- OpenTelemetry instrumentation
+
+### 🛡️ HSTP
+Hardened Secure Transport Protocol — Zero-Knowledge cryptographic challenge system with 13-layer security architecture.  
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sebastiancoronadev/Hardened-Secure-Transport-Protocol)
+- End-to-end encryption with ECDH + AES-256-GCM
+- Ephemeral key rotation (every 60 seconds)
+- BLAKE2b-512 hashing with timing-safe comparison
+- Aggressive frontend obfuscation
+- 13 active security layers
+
+### 🫀 Lipid Profile Predictor
+Cardiovascular risk stratification tool for adults 60-69. Predicts lipid profile from clinical and lifestyle data.  
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sebastiancoronadev/lipid-profile-predictor)
+- Multivariable deterministic prediction model
+- Bilingual interface (English/Spanish)
+- Zero external dependencies
+- 0 external HTTP requests
+- Complete privacy (no data transmission)
+
+### 📦 Inventory System (Private)
 Custom inventory management system for SMEs, achieving up to 300% financial improvement for clients.  
 *Tech: Python, FastAPI, SQLite, HTML/CSS/JS*
-
-### 🛡️ Cybersecurity Lab
-Controlled environment for network resilience testing, IoT device auditing, and social engineering defense simulations.  
-*Tech: Nmap, Wireshark, Metasploit Framework (educational), HackTheBox*
-
-### 🎬 Video Editing Portfolio
-Professional video editing for public figures and brands, driving organic audience growth and engagement.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastiancoronadev&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiancoronadev&layout=compact&theme=radical" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebastiancoronadev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiancoronadev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 ---
@@ -624,33 +644,53 @@ Mi trayectoria también incluye **investigación en ciberseguridad**—enfocada 
 
 ## 🚀 Proyectos Destacados
 
-### 🔗 URL Shortener
-Un servicio local de acortamiento de URLs moderno, seguro y ligero construido con FastAPI.  
-[![Repo](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/sebastiancoronadev/url-shortener)
-- Almacenamiento cifrado AES‑256
-- API REST con FastAPI
-- Base de datos local SQLite
-- Expiración automática a las 24h
-- Interfaz bilingüe (EN/ES)
+### 🗄️ TempusDB
+Motor de base de datos de series temporales de alto rendimiento construido desde cero en Rust con compresión Gorilla, cero pérdida de datos y exportador Prometheus nativo.  
+[![Repo](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/sebastiancoronadev/TempusDB)
+- Arquitectura LSM-tree con WAL + SSTables
+- Compresión Gorilla (reducción de espacio 5-8x)
+- Cero pérdida de datos con fsync inmediato
+- Exportador Prometheus nativo en puerto 9002
+- Operaciones concurrentes sin locks
 
-### 📦 Sistema de Inventarios
+### ⚡ Typeoon Framework
+Framework backend empresarial construido con TypeScript con E2EE, autenticación JWT, ORM Prisma, caché Redis y métricas Prometheus.  
+[![Repo](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/sebastiancoronadev/Typeoon)
+- Cifrado AES-256-CBC con PBKDF2
+- Autenticación JWT con tokens de refresco
+- Rate limiting (100 req/min por IP)
+- Arquitectura modular para APIs REST
+- Instrumentación con OpenTelemetry
+
+### 🛡️ HSTP
+Hardened Secure Transport Protocol — Sistema de desafío criptográfico Zero-Knowledge con arquitectura de 13 capas de seguridad.  
+[![Repo](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/sebastiancoronadev/Hardened-Secure-Transport-Protocol)
+- Cifrado extremo a extremo con ECDH + AES-256-GCM
+- Rotación de claves efímeras (cada 60 segundos)
+- Hashing BLAKE2b-512 con comparación time-safe
+- Ofuscación agresiva del frontend
+- 13 capas de seguridad activas
+
+### 🫀 Lipid Profile Predictor
+Herramienta de estratificación de riesgo cardiovascular para adultos de 60-69 años. Predice perfil lipídico desde datos clínicos y estilo de vida.  
+[![Repo](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/sebastiancoronadev/lipid-profile-predictor)
+- Modelo de predicción determinista multivariable
+- Interfaz bilingüe (Español/Inglés)
+- Cero dependencias externas
+- 0 solicitudes HTTP externas
+- Privacidad total (sin transmisión de datos)
+
+### 📦 Sistema de Inventarios (Privado)
 Sistema personalizado de gestión de inventarios para pymes, logrando mejoras financieras de hasta un 300% para los clientes.  
 *Tecnologías: Python, FastAPI, SQLite, HTML/CSS/JS*
-
-### 🛡️ Laboratorio de Ciberseguridad
-Entorno controlado para pruebas de resiliencia de red, auditoría de dispositivos IoT y simulaciones de defensa contra ingeniería social.  
-*Tecnologías: Nmap, Wireshark, Metasploit Framework (educativo), HackTheBox*
-
-### 🎬 Portafolio de Edición de Video
-Edición profesional de video para figuras públicas y marcas, impulsando el crecimiento orgánico de audiencias y el engagement.
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastiancoronadev&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiancoronadev&layout=compact&theme=radical" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebastiancoronadev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiancoronadev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 ---
