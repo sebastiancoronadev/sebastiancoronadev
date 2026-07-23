@@ -340,6 +340,9 @@ Custom inventory management system for SMEs, achieving up to 300% financial impr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiancoronadev&layout=compact&theme=radical" alt="Top Languages" height="180">
 </div>
 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats-333y.vercel.app/api/top-langs/?username=sebastiancoronadev&hide_border=true&langs_count=4&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css,scss,nunjucks,php,GLSL,lua>
+
 ---
 
 ## 🤝 Let's Connect
