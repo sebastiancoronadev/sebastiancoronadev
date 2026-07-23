@@ -336,12 +336,11 @@ Custom inventory management system for SMEs, achieving up to 300% financial impr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastiancoronadev&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiancoronadev&layout=compact&theme=radical" alt="Top Languages" height="180">
-</div>
-
+  
  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src=https://github-readme-stats-333y.vercel.app/api/top-langs/?username=sebastiancoronadev&hide_border=true&langs_count=4&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css,scss,nunjucks,php,GLSL,lua>
+
+</div>
 
 ---
 
@@ -692,8 +691,10 @@ Sistema personalizado de gestión de inventarios para pymes, logrando mejoras fi
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastiancoronadev&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiancoronadev&layout=compact&theme=radical" alt="Top Languages" height="180">
+
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats-333y.vercel.app/api/top-langs/?username=sebastiancoronadev&hide_border=true&langs_count=4&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css,scss,nunjucks,php,GLSL,lua>
+
 </div>
 
 ---
