@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Sebastián Corona &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# 👋 Hi, I'm Sebastián Corona &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### Full-Stack Developer · Cybersecurity Specialist · Systems Architect
+### Developer · Cybersecurity Enthusiast · Systems Architect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-codexstudiove.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.codexstudiove.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastiancoronadev)
@@ -19,9 +19,9 @@
 
 ## 🧑‍💻 About Me
 
-Software developer technician with **+5 years of experience** building custom tech solutions, professional video editing, and digital community management. I've worked with companies and public figures, optimizing internal processes (e.g., inventory systems that boosted financial performance by **300%**) and elevating digital presence through strategic content.
+Software developer with **+5 years of experience** building custom solutions, editing video, and managing digital communities. I've worked with companies and public figures on process optimization (inventory systems that improved financial performance by **300%**) and digital presence strategies.
 
-My background also includes **cybersecurity research**—focusing on network resilience, IoT device auditing, and social engineering defense—all developed in controlled, ethical environments. Self‑taught, result‑oriented, and passionate about measurable impact.
+I also have a background in **cybersecurity research**—focused on network resilience, IoT security, and social engineering defense—developed in controlled, ethical environments. Self‑taught, focused on results.
 
 ---
 
@@ -230,7 +230,7 @@ My background also includes **cybersecurity research**—focusing on network res
 ### Sebastián Corona
 📍 Valencia, Carabobo · ✉ sebastiancorona@codexstudiove.com
 
-**Software Developer Technician** with 5+ years of experience in custom software solutions, professional video editing, and digital community management. Proven track record of optimizing internal processes (e.g., inventory systems achieving 300% financial improvement) and boosting digital presence through strategic content. Practical, self‑taught, and results‑driven. Extensive background in cybersecurity research applied ethically and in controlled environments.
+**Software Developer** with 5+ years of experience in custom software solutions, video editing, and digital community management. Proven track record of optimizing internal processes (e.g., inventory systems achieving 300% financial improvement) and boosting digital presence through strategic content. Self‑taught, results‑driven. Background in cybersecurity research applied ethically and in controlled environments.
 
 **Core Skills**
 - Customer Service · Negotiation · Team Management
@@ -374,9 +374,9 @@ I'm always open to interesting collaborations, freelance projects, or full‑tim
 
 ## 🧑‍💻 Sobre Mí
 
-Técnico en desarrollo de software con **+5 años de experiencia** en soluciones tecnológicas a medida, edición de video profesional y gestión de comunidades digitales. He trabajado con empresas y figuras públicas optimizando procesos internos (como sistemas de inventarios con mejora financiera del **300%**) y elevando la presencia digital mediante contenido estratégico.
+Desarrollador de software con **+5 años de experiencia** creando soluciones personalizadas, editando video y gestionando comunidades digitales. He trabajado con empresas y figuras públicas en optimización de procesos (sistemas de inventario que mejoraron el rendimiento financiero en un **300%**) y estrategias de presencia digital.
 
-Mi trayectoria también incluye **investigación en ciberseguridad**—enfocada en resiliencia de redes, auditoría de dispositivos IoT y defensa contra ingeniería social—todo desarrollado en entornos controlados y éticos. Autodidacta, enfocado en resultados medibles.
+También tengo formación en **investigación en ciberseguridad**—enfocada en resiliencia de redes, seguridad IoT y defensa contra ingeniería social—desarrollada en entornos controlados y éticos. Autodidacta, enfocado en resultados.
 
 ---
 
@@ -585,7 +585,7 @@ Mi trayectoria también incluye **investigación en ciberseguridad**—enfocada 
 ### Sebastián Corona
 📍 Valencia, Carabobo · ✉ sebastiancorona@codexstudiove.com
 
-**Técnico en desarrollo de software** con +5 años de experiencia en soluciones tecnológicas a medida, edición de video profesional y gestión de comunidades digitales. He trabajado con empresas y figuras públicas optimizando procesos internos (como sistemas de inventarios con mejora financiera del 300%) y elevando la presencia digital mediante contenido estratégico. Enfoque práctico, autodidacta y orientado a resultados medibles. Amplia experiencia en investigación en ciberseguridad aplicada éticamente y en entornos controlados.
+**Desarrollador de software** con +5 años de experiencia en soluciones personalizadas, edición de video y gestión de comunidades digitales. Historial comprobado en optimización de procesos (sistemas de inventario que lograron una mejora financiera del 300%) y crecimiento de presencia digital mediante contenido estratégico. Autodidacta, orientado a resultados. Formación en investigación en ciberseguridad aplicada éticamente y en entornos controlados.
 
 **Habilidades**
 - Atención al cliente · Negociación · Gestión de equipos
